@@ -14,7 +14,7 @@ This repository contains a machine learning-based tool for predicting the activi
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/anti-trichomoniasis-prediction.git
+git clone https://github.com/CaiBiotech/Anti-Trichomoniasis-Drug-Predictor.git
 
 2. Install the required dependencies:
 pip install -r requirements.txt
