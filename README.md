@@ -69,6 +69,7 @@ The training process generates several output files:
 ## Contact
 
 Dr. Haiming Cai
+
 E-mail: haiming_cai@hotmail.com
 
 Project Link: https://github.com/CaiBiotech/Anti-Trichomoniasis-Drug-Predictor
