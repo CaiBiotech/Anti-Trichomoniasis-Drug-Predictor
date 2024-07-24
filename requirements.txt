@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+rdkit
+joblib
+matplotlib
+seaborn
+requests
+xgboost
+PyQt5
+streamlit
+openbabel
+openbabel-wheel
+plotly
+scikit-optimize
