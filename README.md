@@ -23,12 +23,15 @@ pip install -r requirements.txt
 ### Desktop Application
 
 Run the desktop application:
+
 1）Extract (or unzip) the compressed file named "Anti-Trichomoniasis Drug Predictor.tgz"
+
 2）Once the extraction is complete, locate and run the executable file named "Anti-Trichomoniasis Drug Predictor.exe"
 
 ### Web Interface
 
 Run the Streamlit web interface:
+
 streamlit run cem_pgdrug_web.py
 
 ## Model Training
